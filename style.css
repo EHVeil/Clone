@@ -5,3 +5,11 @@
   background-size: cover;
   padding-top: 100px;
 }
+
+.gallery{
+  background-image: url(https://mesa-boogie.imgix.net/media/Home/artists-home-page.jpg?fit=crop&crop=edges&max-h=510&q=60);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
