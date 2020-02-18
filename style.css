@@ -1,0 +1,7 @@
+.hero-background-image{
+  background-image: url(https://mesa-boogie.imgix.net/media/Home/Hero/mk525combo-gtr-home-hero-main.jpg?fit=crop&crop=top&max-h=450&q=60);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 100px;
+}
