@@ -11,5 +11,12 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  
+
+}
+
+.amplitudes{
+  background-image: url(https://www.mesaboogie.com/resources/images/home/bg-blog-spotlight.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
