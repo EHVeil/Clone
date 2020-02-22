@@ -1,3 +1,10 @@
+body{
+  background-image: url(https://www.mesaboogie.com/resources/images/bg-global.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .hero-background-image{
   background-image: url(https://mesa-boogie.imgix.net/media/Home/Hero/mk525combo-gtr-home-hero-main.jpg?fit=crop&crop=top&max-h=450&q=60);
   background-position: center;
@@ -6,16 +13,45 @@
   padding-top: 100px;
 }
 
+.amplitudes{
+  background-image: url(https://www.mesaboogie.com/resources/images/home/bg-blog-spotlight.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .gallery{
   background-image: url(https://mesa-boogie.imgix.net/media/Home/artists-home-page.jpg?fit=crop&crop=edges&max-h=510&q=60);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 
 .amplitudes{
   background-image: url(https://www.mesaboogie.com/resources/images/home/bg-blog-spotlight.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tone-zone{
+  background-image: url(https://www.mesaboogie.com/resources/images/home/bg-wood-2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 420px;
+}
+
+.Randall{
+  background-image: url(https://www.mesaboogie.com/resources/images/home/bg-wood.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:
+}
+
+.footer{
+  background-image: url(https://www.mesaboogie.com/resources/images/decor/bg-footer.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
